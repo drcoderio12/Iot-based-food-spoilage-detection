@@ -1,6 +1,4 @@
-Here's a sample README file for your IoT-based food spoilage detection project:
 
----
 
 # IoT-Based Food Spoilage Detection System
 
